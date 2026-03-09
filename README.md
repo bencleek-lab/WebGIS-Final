@@ -1,4 +1,4 @@
-# [Your Map Title Here]
+# [GISlab Final Map]
  
 ## Description
 This web map shows [describe what geographic features or data your map displays].
